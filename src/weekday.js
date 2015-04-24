@@ -1,16 +1,13 @@
-var a = document.getElementById("src_img");
-var i = 10;
+function updateClock() {
+	var hand = document.getElementById("src_img").contentDocument.getElementById("rect2987");
+	var d = new Date();
+	var hours = d.getHours();
+	var minutes = d.getMinutes();
+	
+	hand.setAttribute('transform', 'rotate('+ ((hours*60)+minutes)/4 +' 100 100)');
+}
 
-a.addEventListener("load", function() {
-var svgDoc = a.contentDocument;
-var hand = svgDoc.getElementById("rect2987");
-hand.setAttribute('transform', 'rotate(10 100 100)');
-}, false);
-
-setInterval(function() {
-var svgDoc = a.contentDocument;
-var hand = svgDoc.getElementById("rect2987");
-hand.setAttribute('transform', 'rotate('+ i +' 100 100)');
-i = i +10;
-}, 1000)
-
+function setClockTimer() {
+	updateClock()
+	setInterval(updateClock, 60000) 
+}
