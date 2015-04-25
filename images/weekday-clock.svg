@@ -7,14 +7,16 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200"
-   height="200"
+   width="636"
+   height="627"
+   viewBox="0 0 627 636"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="drawing.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="380.71429"
-     inkscape:cy="514.28571"
+     inkscape:zoom="0.53537287"
+     inkscape:cx="625.86668"
+     inkscape:cy="287.8531"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1128"
-     inkscape:window-height="782"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1255"
+     inkscape:window-height="776"
+     inkscape:window-x="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -43,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,13 +53,111 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle cx="100" cy="100" r="100" stroke="black" fill="white" />
-    <rect
-       style="fill:#000000;stroke:#000000;stroke-width:0.07525427"
-       id="rect2987"
-       width="5"
-       height="95"
-       x="100"
-       y="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000"
+       id="path2985"
+       sodipodi:cx="354.28571"
+       sodipodi:cy="430.93362"
+       sodipodi:rx="157.14285"
+       sodipodi:ry="141.42857"
+       d="m 511.42856,430.93362 a 157.14285,141.42857 0 1 1 -314.28571,0 157.14285,141.42857 0 1 1 314.28571,0 z"
+       transform="matrix(1.7441503,0,0,1.9379447,-306.11428,-512.61901)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text2987"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path2985-2"
+         id="textPath3167"><tspan
+   id="tspan2989"
+   dx="1497.1444"
+   style="font-size:40px">Monday</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text2991"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path2985-2"
+         id="textPath3170"><tspan
+   id="tspan2993"
+   dx="-8.5714426"
+   style="font-size:40px">Tuesday</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text2995"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path2985-2"
+         id="textPath3173"><tspan
+   id="tspan2997"
+   dx="174.28574"
+   style="font-size:40px">Wednesday</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text2999"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path2985-2"
+         id="textPath3176"><tspan
+   id="tspan3001"
+   dx="468.5719"
+   style="font-size:40px">Thursday</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text3003"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path2985-2"
+         id="textPath3179"><tspan
+   id="tspan3005"
+   dx="782.85516">Friday</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="text3007"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path2985-2"
+         id="textPath3042"><tspan
+   id="tspan3009"
+   dx="1248.5699"
+   style="font-size:48px;font-style:normal;-inkscape-font-specification:Sans">Sunday</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text3011"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path2985-2"
+         id="textPath3182"><tspan
+   id="tspan3013"
+   dx="994.28192">Saturday</tspan></textPath></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:none"
+       id="path2985-2"
+       sodipodi:cx="354.28571"
+       sodipodi:cy="430.93362"
+       sodipodi:rx="157.14285"
+       sodipodi:ry="141.42857"
+       d="m 511.42856,430.93362 a 157.14285,141.42857 0 1 1 -314.28571,0 157.14285,141.42857 0 1 1 314.28571,0 z"
+       transform="matrix(1.8136364,0,0,2.0151515,-330.73222,-545.89009)" />
+    <g
+       id="g3007">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3206"
+         d="m 311.77968,350.69518 0,-276.161806"
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:3.62252736px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.22950492,0,0,0.3012252,358.41207,111.09478)"
+         d="m -181.82746,701.83923 a 21.213203,16.162441 0 1 1 -42.42641,0 21.213203,16.162441 0 1 1 42.42641,0 z"
+         sodipodi:ry="16.162441"
+         sodipodi:rx="21.213203"
+         sodipodi:cy="701.83923"
+         sodipodi:cx="-203.04066"
+         id="path3204"
+         style="fill:#000000;stroke:#000000"
+         sodipodi:type="arc" />
+    </g>
   </g>
 </svg>

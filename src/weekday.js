@@ -1,10 +1,13 @@
 function updateClock() {
-	var hand = document.getElementById("src_img").contentDocument.getElementById("rect2987");
+	var hand = document.getElementById("src_img").contentDocument.getElementById("g3007");
 	var d = new Date();
 	var hours = d.getHours();
 	var minutes = d.getMinutes();
+	var day = d.getDay();
 	
-	hand.setAttribute('transform', 'rotate('+ ((hours*60)+minutes)/4 +' 100 100)');
+	hand.setAttribute('transform', 'rotate('+
+				(((day*24*60)+(hours*60)+minutes)/(10080/360)-25.7) +
+				' 317 309)');
 }
 
 function setClockTimer() {
