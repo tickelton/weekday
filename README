@@ -3,3 +3,6 @@ weekday.js
 
 weekday.js displays an analog clock with only one hand showing the current
 time on a day-of-the-week scale using SVG and Javascript.
+
+A live demonstration can be seen at: https://tickelton.github.io/weekday
+
