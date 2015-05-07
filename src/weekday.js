@@ -7,7 +7,7 @@ function updateClock() {
 	
 	hand.setAttribute('transform', 'rotate('+
 				(((day*24*60)+(hours*60)+minutes)/(10080/360)-25.7) +
-				' 317 309)');
+				' 300 300)');
 }
 
 function setClockTimer() {
